@@ -147,11 +147,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Houdayfahousny/Problem_solving/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Houdayfahousny/Problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Houdayfahousny/Problem_solving/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
@@ -260,4 +262,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Houdayfahousny/Problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
