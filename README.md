@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/Houdayfahousny/Problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
@@ -156,6 +157,7 @@
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Houdayfahousny/Problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Houdayfahousny/Problem_solving/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
