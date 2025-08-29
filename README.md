@@ -31,6 +31,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
@@ -179,6 +180,7 @@
 | [0213-house-robber-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
