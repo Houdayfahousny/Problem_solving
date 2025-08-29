@@ -28,6 +28,7 @@
 | [0213-house-robber-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Houdayfahousny/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Houdayfahousny/Problem_solving/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
@@ -135,6 +136,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Houdayfahousny/Problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Houdayfahousny/Problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
@@ -175,6 +177,7 @@
 | [0152-maximum-product-subarray](https://github.com/Houdayfahousny/Problem_solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Houdayfahousny/Problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
