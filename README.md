@@ -39,6 +39,7 @@
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0079-word-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Houdayfahousny/Problem_solving/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Houdayfahousny/Problem_solving/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0200-number-of-islands](https://github.com/Houdayfahousny/Problem_solving/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Houdayfahousny/Problem_solving/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
