@@ -42,6 +42,7 @@
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
+| [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
