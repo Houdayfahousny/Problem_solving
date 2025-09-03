@@ -41,6 +41,7 @@
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 ## Hash Table
@@ -71,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/Houdayfahousny/Problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -94,11 +96,13 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -112,6 +116,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -184,6 +189,7 @@
 | [0002-add-two-numbers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -354,4 +360,8 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
