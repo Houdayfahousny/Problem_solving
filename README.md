@@ -101,6 +101,7 @@
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
