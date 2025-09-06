@@ -48,6 +48,7 @@
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
@@ -75,6 +76,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Houdayfahousny/Problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -86,6 +88,7 @@
 | [0242-valid-anagram](https://github.com/Houdayfahousny/Problem_solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 ## String
@@ -202,6 +205,7 @@
 | [0055-jump-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Houdayfahousny/Problem_solving/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 ## Stack
 |  |
 | ------- |
