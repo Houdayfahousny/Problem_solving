@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Houdayfahousny/Problem_solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Houdayfahousny/Problem_solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Houdayfahousny/Problem_solving/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Houdayfahousny/Problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Houdayfahousny/Problem_solving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0079-word-search) |
@@ -111,6 +112,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Houdayfahousny/Problem_solving/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Houdayfahousny/Problem_solving/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Houdayfahousny/Problem_solving/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Houdayfahousny/Problem_solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Houdayfahousny/Problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Houdayfahousny/Problem_solving/tree/master/0072-edit-distance) |
