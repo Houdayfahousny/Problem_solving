@@ -77,6 +77,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Houdayfahousny/Problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 ## Sorting
@@ -114,6 +115,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Houdayfahousny/Problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
@@ -187,6 +189,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Houdayfahousny/Problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0055-jump-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Houdayfahousny/Problem_solving/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Houdayfahousny/Problem_solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
