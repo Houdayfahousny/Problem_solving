@@ -49,6 +49,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@
 | [0200-number-of-islands](https://github.com/Houdayfahousny/Problem_solving/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Houdayfahousny/Problem_solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Houdayfahousny/Problem_solving/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -393,6 +395,7 @@
 | [0210-course-schedule-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Houdayfahousny/Problem_solving/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Houdayfahousny/Problem_solving/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -414,4 +417,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Houdayfahousny/Problem_solving/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
