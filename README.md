@@ -265,6 +265,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Houdayfahousny/Problem_solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0518-coin-change-ii) |
@@ -409,6 +410,7 @@
 | [0090-subsets-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
