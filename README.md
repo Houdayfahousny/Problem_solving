@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Houdayfahousny/Problem_solving/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
@@ -409,6 +410,7 @@
 | [0078-subsets](https://github.com/Houdayfahousny/Problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0338-counting-bits) |
 ## Memoization
