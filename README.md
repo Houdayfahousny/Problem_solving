@@ -244,6 +244,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Houdayfahousny/Problem_solving/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Houdayfahousny/Problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
