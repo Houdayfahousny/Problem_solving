@@ -262,6 +262,7 @@
 | [0002-add-two-numbers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Houdayfahousny/Problem_solving/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Houdayfahousny/Problem_solving/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Houdayfahousny/Problem_solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Houdayfahousny/Problem_solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Houdayfahousny/Problem_solving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
@@ -342,6 +343,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Houdayfahousny/Problem_solving/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Houdayfahousny/Problem_solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Houdayfahousny/Problem_solving/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Houdayfahousny/Problem_solving/tree/master/0206-reverse-linked-list) |
 ## Tree
