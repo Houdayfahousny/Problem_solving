@@ -74,6 +74,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Houdayfahousny/Problem_solving/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Houdayfahousny/Problem_solving/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Houdayfahousny/Problem_solving/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Houdayfahousny/Problem_solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Houdayfahousny/Problem_solving/tree/master/0242-valid-anagram) |
@@ -199,6 +200,7 @@
 | [0141-linked-list-cycle](https://github.com/Houdayfahousny/Problem_solving/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Houdayfahousny/Problem_solving/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Houdayfahousny/Problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
@@ -254,6 +256,7 @@
 | [0062-unique-paths](https://github.com/Houdayfahousny/Problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
