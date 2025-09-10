@@ -66,6 +66,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Houdayfahousny/Problem_solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/Houdayfahousny/Problem_solving/tree/master/2139-detect-squares) |
+| [2350-find-closest-number-to-zero](https://github.com/Houdayfahousny/Problem_solving/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
