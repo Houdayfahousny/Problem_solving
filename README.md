@@ -138,6 +138,7 @@
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/1250-longest-common-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Houdayfahousny/Problem_solving/tree/master/1894-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +218,7 @@
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
+| [1894-merge-strings-alternately](https://github.com/Houdayfahousny/Problem_solving/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
