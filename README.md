@@ -258,6 +258,7 @@
 | [0268-missing-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Houdayfahousny/Problem_solving/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Houdayfahousny/Problem_solving/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
@@ -310,6 +311,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Houdayfahousny/Problem_solving/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
