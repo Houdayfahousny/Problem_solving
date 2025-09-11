@@ -95,6 +95,7 @@
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Houdayfahousny/Problem_solving/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Houdayfahousny/Problem_solving/tree/master/2139-detect-squares) |
@@ -142,6 +143,7 @@
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/Houdayfahousny/Problem_solving/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Houdayfahousny/Problem_solving/tree/master/1894-merge-strings-alternately) |
