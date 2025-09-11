@@ -91,6 +91,7 @@
 | [0268-missing-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Houdayfahousny/Problem_solving/tree/master/0355-design-twitter) |
+| [0383-ransom-note](https://github.com/Houdayfahousny/Problem_solving/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Houdayfahousny/Problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
@@ -137,6 +138,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Houdayfahousny/Problem_solving/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Houdayfahousny/Problem_solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Houdayfahousny/Problem_solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Houdayfahousny/Problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Houdayfahousny/Problem_solving/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Houdayfahousny/Problem_solving/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
 | [2139-detect-squares](https://github.com/Houdayfahousny/Problem_solving/tree/master/2139-detect-squares) |
 ## Quickselect
