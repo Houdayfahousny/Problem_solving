@@ -56,6 +56,7 @@
 | [0494-target-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Houdayfahousny/Problem_solving/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
@@ -277,6 +278,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Houdayfahousny/Problem_solving/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 ## Design
@@ -533,4 +535,5 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Houdayfahousny/Problem_solving/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
