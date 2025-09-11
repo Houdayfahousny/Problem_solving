@@ -64,6 +64,7 @@
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
@@ -120,6 +121,7 @@
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
+| [1019-squares-of-a-sorted-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Houdayfahousny/Problem_solving/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
