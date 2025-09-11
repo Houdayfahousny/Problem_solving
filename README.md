@@ -57,6 +57,7 @@
 | [0494-target-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Houdayfahousny/Problem_solving/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Houdayfahousny/Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Houdayfahousny/Problem_solving/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
@@ -371,6 +372,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Houdayfahousny/Problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Houdayfahousny/Problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Houdayfahousny/Problem_solving/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
