@@ -406,6 +406,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Houdayfahousny/Problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -430,6 +431,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Houdayfahousny/Problem_solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/Houdayfahousny/Problem_solving/tree/master/0684-redundant-connection) |
@@ -452,6 +454,7 @@
 | [0210-course-schedule-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Houdayfahousny/Problem_solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0684-redundant-connection](https://github.com/Houdayfahousny/Problem_solving/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Houdayfahousny/Problem_solving/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Houdayfahousny/Problem_solving/tree/master/0744-network-delay-time) |
@@ -470,6 +473,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Houdayfahousny/Problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -488,6 +492,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Houdayfahousny/Problem_solving/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bit Manipulation
 |  |
