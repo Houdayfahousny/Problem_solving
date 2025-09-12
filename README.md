@@ -65,6 +65,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Houdayfahousny/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Houdayfahousny/Problem_solving/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
@@ -107,6 +108,7 @@
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Houdayfahousny/Problem_solving/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/Houdayfahousny/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Houdayfahousny/Problem_solving/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/Houdayfahousny/Problem_solving/tree/master/1297-maximum-number-of-balloons) |
@@ -302,6 +304,7 @@
 | [0355-design-twitter](https://github.com/Houdayfahousny/Problem_solving/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Houdayfahousny/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Houdayfahousny/Problem_solving/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
 | [2139-detect-squares](https://github.com/Houdayfahousny/Problem_solving/tree/master/2139-detect-squares) |
 ## Math
@@ -395,6 +398,7 @@
 | [0206-reverse-linked-list](https://github.com/Houdayfahousny/Problem_solving/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/Houdayfahousny/Problem_solving/tree/master/0355-design-twitter) |
 | [0816-design-hashset](https://github.com/Houdayfahousny/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Houdayfahousny/Problem_solving/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Houdayfahousny/Problem_solving/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -500,6 +504,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Houdayfahousny/Problem_solving/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Houdayfahousny/Problem_solving/tree/master/0817-design-hashmap) |
 ## Binary Search Tree
 |  |
 | ------- |
