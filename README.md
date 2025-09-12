@@ -72,6 +72,7 @@
 | [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Houdayfahousny/Problem_solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2058-concatenation-of-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/2058-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/Houdayfahousny/Problem_solving/tree/master/2139-detect-squares) |
 | [2350-find-closest-number-to-zero](https://github.com/Houdayfahousny/Problem_solving/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -567,6 +568,7 @@
 | [0043-multiply-strings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Houdayfahousny/Problem_solving/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
+| [2058-concatenation-of-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/2058-concatenation-of-array) |
 ## Interactive
 |  |
 | ------- |
