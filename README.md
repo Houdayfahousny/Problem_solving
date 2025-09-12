@@ -399,6 +399,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Houdayfahousny/Problem_solving/tree/master/0199-binary-tree-right-side-view) |
@@ -414,6 +415,7 @@
 | [0079-word-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Houdayfahousny/Problem_solving/tree/master/0130-surrounded-regions) |
@@ -437,6 +439,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Houdayfahousny/Problem_solving/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Houdayfahousny/Problem_solving/tree/master/0133-clone-graph) |
@@ -457,6 +460,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Houdayfahousny/Problem_solving/tree/master/0199-binary-tree-right-side-view) |
