@@ -301,6 +301,7 @@
 | [0143-reorder-list](https://github.com/Houdayfahousny/Problem_solving/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Houdayfahousny/Problem_solving/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Houdayfahousny/Problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Houdayfahousny/Problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Houdayfahousny/Problem_solving/tree/master/0739-daily-temperatures) |
@@ -311,6 +312,7 @@
 | [0155-min-stack](https://github.com/Houdayfahousny/Problem_solving/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Houdayfahousny/Problem_solving/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Houdayfahousny/Problem_solving/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/Houdayfahousny/Problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0355-design-twitter](https://github.com/Houdayfahousny/Problem_solving/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Houdayfahousny/Problem_solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Houdayfahousny/Problem_solving/tree/master/0816-design-hashset) |
@@ -596,4 +598,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Houdayfahousny/Problem_solving/tree/master/0278-first-bad-version) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Houdayfahousny/Problem_solving/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
