@@ -278,6 +278,7 @@
 | [0278-first-bad-version](https://github.com/Houdayfahousny/Problem_solving/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Houdayfahousny/Problem_solving/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Houdayfahousny/Problem_solving/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Houdayfahousny/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Houdayfahousny/Problem_solving/tree/master/1023-time-based-key-value-store) |
@@ -602,6 +603,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Houdayfahousny/Problem_solving/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Houdayfahousny/Problem_solving/tree/master/0374-guess-number-higher-or-lower) |
 ## Queue
 |  |
 | ------- |
