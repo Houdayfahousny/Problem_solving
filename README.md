@@ -77,6 +77,7 @@
 | [1036-rotting-oranges](https://github.com/Houdayfahousny/Problem_solving/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/Houdayfahousny/Problem_solving/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Houdayfahousny/Problem_solving/tree/master/1706-min-cost-to-connect-all-points) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Houdayfahousny/Problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Houdayfahousny/Problem_solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/2058-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/Houdayfahousny/Problem_solving/tree/master/2139-detect-squares) |
@@ -343,6 +344,7 @@
 | [0371-sum-of-two-integers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Houdayfahousny/Problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -390,6 +392,7 @@
 | [0090-subsets-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Houdayfahousny/Problem_solving/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Houdayfahousny/Problem_solving/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Houdayfahousny/Problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -542,6 +545,7 @@
 | [0268-missing-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Houdayfahousny/Problem_solving/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Houdayfahousny/Problem_solving/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Houdayfahousny/Problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -583,6 +587,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Houdayfahousny/Problem_solving/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Houdayfahousny/Problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Shortest Path
 |  |
 | ------- |
@@ -609,4 +614,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Houdayfahousny/Problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Houdayfahousny/Problem_solving/tree/master/0232-implement-queue-using-stacks) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Houdayfahousny/Problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
