@@ -149,6 +149,7 @@
 | [0022-generate-parentheses](https://github.com/Houdayfahousny/Problem_solving/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Houdayfahousny/Problem_solving/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Houdayfahousny/Problem_solving/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Houdayfahousny/Problem_solving/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Houdayfahousny/Problem_solving/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Houdayfahousny/Problem_solving/tree/master/0091-decode-ways) |
@@ -335,6 +336,7 @@
 | [0050-powx-n](https://github.com/Houdayfahousny/Problem_solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Houdayfahousny/Problem_solving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Houdayfahousny/Problem_solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Houdayfahousny/Problem_solving/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Houdayfahousny/Problem_solving/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Houdayfahousny/Problem_solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Houdayfahousny/Problem_solving/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -537,6 +539,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Houdayfahousny/Problem_solving/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Houdayfahousny/Problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Houdayfahousny/Problem_solving/tree/master/0136-single-number) |
@@ -602,6 +605,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Houdayfahousny/Problem_solving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Houdayfahousny/Problem_solving/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Houdayfahousny/Problem_solving/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Houdayfahousny/Problem_solving/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/2058-concatenation-of-array) |
 ## Interactive
