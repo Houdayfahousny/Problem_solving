@@ -71,6 +71,7 @@
 | [0817-design-hashmap](https://github.com/Houdayfahousny/Problem_solving/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/Houdayfahousny/Problem_solving/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Houdayfahousny/Problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/Houdayfahousny/Problem_solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Houdayfahousny/Problem_solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -297,6 +298,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Houdayfahousny/Problem_solving/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Houdayfahousny/Problem_solving/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Houdayfahousny/Problem_solving/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/Houdayfahousny/Problem_solving/tree/master/0890-lemonade-change) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Houdayfahousny/Problem_solving/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
 |  |
